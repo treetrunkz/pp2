@@ -1,5 +1,5 @@
 <?php
-echo "test";
+
 
 function printArr($arr){
 echo "<br>";
@@ -9,3 +9,6 @@ echo "<br>";
 }
 }
 
+function printLargest($arr){
+    echo max($arr);
+}

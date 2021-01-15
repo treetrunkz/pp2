@@ -17,8 +17,12 @@ echo "PHP Array Practice";
 
 $numbers = [7, 9, 8, 9, 8, 8, 6];
 
+//Step 3
 include 'include.php';
-
-
+echo "<br><br>";
+echo"Largest number:";
+printLargest($numbers);
+echo "<br><br>";
+echo "Array of numbers:";
 printArr($numbers);
 ?>
