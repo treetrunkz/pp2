@@ -9,3 +9,6 @@ Team Members
 Eleanor Carl
 Heather Monatt
 Alica LLavore
+
+![PP Program](https://i.ibb.co/n6FX4rP/previewpp.png)
+
