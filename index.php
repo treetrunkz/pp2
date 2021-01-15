@@ -11,17 +11,14 @@
 <title> Pair Program 2 </title>
 <header>Pair Program 2</header>
 <?php
+
+//Step 2
 echo "PHP Array Practice";
 
 $numbers = [7, 9, 8, 9, 8, 8, 6];
 
-function printArr($arr){
-    echo "<br>";
-    foreach($arr as $x){
-        echo $x;
-        echo "<br>";
-    }
-}
+include 'include.php';
+
 
 printArr($numbers);
 ?>
