@@ -19,10 +19,11 @@ $numbers = [7, 9, 8, 9, 8, 8, 6];
 
 //Step 3
 include 'include.php';
-echo "<br><br>";
-echo"Largest number:";
+
+distribution($numbers);
+removeDups($numbers);
 printLargest($numbers);
+echo "Print Array";
 echo "<br><br>";
-echo "Array of numbers:";
 printArr($numbers);
 ?>

@@ -183,3 +183,34 @@ Stack trace:
 Stack trace:
 #0 {main}
   thrown in /home/eleacaco/public_html/SDEV328/pp2/index.php on line 23
+[15-Jan-2021 21:49:03 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/eleacaco/public_html/SDEV328/pp2/include.php on line 18
+[15-Jan-2021 21:49:05 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/eleacaco/public_html/SDEV328/pp2/include.php on line 18
+[15-Jan-2021 21:50:25 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/eleacaco/public_html/SDEV328/pp2/include.php on line 19
+[15-Jan-2021 21:50:25 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/eleacaco/public_html/SDEV328/pp2/include.php on line 19
+[15-Jan-2021 21:50:25 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/eleacaco/public_html/SDEV328/pp2/include.php on line 19
+[15-Jan-2021 21:50:25 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/eleacaco/public_html/SDEV328/pp2/include.php on line 19
+[15-Jan-2021 21:50:25 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/eleacaco/public_html/SDEV328/pp2/include.php on line 19
+[15-Jan-2021 21:50:25 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/eleacaco/public_html/SDEV328/pp2/include.php on line 19
+[15-Jan-2021 21:50:25 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/eleacaco/public_html/SDEV328/pp2/include.php on line 19
+[15-Jan-2021 21:50:39 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/eleacaco/public_html/SDEV328/pp2/include.php on line 19
+[15-Jan-2021 21:50:39 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/eleacaco/public_html/SDEV328/pp2/include.php on line 19
+[15-Jan-2021 21:50:39 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/eleacaco/public_html/SDEV328/pp2/include.php on line 19
+[15-Jan-2021 21:50:39 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/eleacaco/public_html/SDEV328/pp2/include.php on line 19
+[15-Jan-2021 21:50:39 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/eleacaco/public_html/SDEV328/pp2/include.php on line 19
+[15-Jan-2021 21:50:39 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/eleacaco/public_html/SDEV328/pp2/include.php on line 19
+[15-Jan-2021 21:50:39 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/eleacaco/public_html/SDEV328/pp2/include.php on line 19
+[15-Jan-2021 22:03:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function print_f() in /home/eleacaco/public_html/SDEV328/pp2/include.php:17
+Stack trace:
+#0 /home/eleacaco/public_html/SDEV328/pp2/index.php(23): removeDups(Array)
+#1 {main}
+  thrown in /home/eleacaco/public_html/SDEV328/pp2/include.php on line 17
+[15-Jan-2021 22:03:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function print_f() in /home/eleacaco/public_html/SDEV328/pp2/include.php:17
+Stack trace:
+#0 /home/eleacaco/public_html/SDEV328/pp2/index.php(23): removeDups(Array)
+#1 {main}
+  thrown in /home/eleacaco/public_html/SDEV328/pp2/include.php on line 17
+[15-Jan-2021 22:03:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function print_f() in /home/eleacaco/public_html/SDEV328/pp2/include.php:17
+Stack trace:
+#0 /home/eleacaco/public_html/SDEV328/pp2/index.php(23): removeDups(Array)
+#1 {main}
+  thrown in /home/eleacaco/public_html/SDEV328/pp2/include.php on line 17
